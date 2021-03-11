@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: 'Tahoma';
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: #4169E1;
+  align-items: center;
+}
+
+#icone-menu {
+  height: 50px;
+  width: 55px;
+  margin-left: 60px;
+  margin-right: 20px;
+}
+
+#titulo {
+  color: white;
+  font-size: 60px;
+}
+
+main {
+  margin: 40px;
+}
+
+#img-mansao {
+
+  width: 900px;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+p {
+  color: #444;
+  margin: 5px 0;
+  font-size: 50px;
+}
